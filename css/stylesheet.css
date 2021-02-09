@@ -9,6 +9,7 @@ body {
     text-align: center;
     background-image: url(../profile_img.jpeg);
     background-size: cover;
+    vertical-align: middle;
     height: 640px;
     vertical-align: middle;
 
