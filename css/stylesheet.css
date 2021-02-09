@@ -10,11 +10,12 @@ body {
     background-image: url(../profile_img.jpeg);
     background-size: cover;
     height: 640px;
+    vertical-align: middle;
 
 }
 
 .title {
-    vertical-align: middle;
+
 }
 
 .profile_container {
