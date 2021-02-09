@@ -4,7 +4,11 @@ body {
 }
 
 .title_container {
+    color:white;
+    opacity: 0.7;
     text-align: center;
+    height: 640px;
+    background-image: url(../profile_img.jpeg);
 }
 
 .profile_container {
