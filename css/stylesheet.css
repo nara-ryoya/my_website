@@ -9,12 +9,12 @@ body {
     text-align: center;
     background-image: url(../profile_img.jpeg);
     background-size: cover;
+    padding-top: 35%;
     height: 640px;
 
 }
 
 .title {
-    margin-top: 180px;
 
 }
 
