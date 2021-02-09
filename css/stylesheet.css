@@ -13,6 +13,11 @@ body {
 
 }
 
+.title_container {
+    vertical-align: middle;
+}
+
 .profile_container {
     color: white;
 }
+
