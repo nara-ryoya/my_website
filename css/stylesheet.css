@@ -5,17 +5,21 @@ body {
 
 .title_container {
     color:white;
+    font-size: 250%;
     opacity: 0.7;
     text-align: center;
-    background-image: url(../profile_img.jpeg);
+    background-image: url(../photos/profile_img.jpeg);
     background-size: cover;
     padding-top: 35%;
     height: 640px;
 
 }
 
-.title {
 
+.photo-container {
+    width:40%;
+    display: inline-block;
+    padding:20px;
 }
 
 .profile_container {
