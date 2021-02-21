@@ -1,3 +1,7 @@
+@media(max-width: 1000px) {
+
+}
+
 body {
     color:yellow;
     background-color: black;
@@ -8,6 +12,7 @@ body {
     opacity: 0.7;
     text-align: center;
     background-image: url(../profile_img.jpeg);
+    font-size:250px;
     background-size: cover;
     padding-top: 35%;
     height: 640px;
