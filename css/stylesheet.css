@@ -5,6 +5,10 @@
 body {
     color:white;
     background-color: black;
+    display:block;
+    margin:0 auto;
+    font-family:serif;
+
 }
 
 header {
@@ -16,13 +20,13 @@ header {
 
 header h1 {
     border-bottom: 0;
-    vertical-align: middle;
-    margin-top: auto;
+    margin-top: 1rem;
 }
 
 
 .profile_container {
     color: white;
+    margin:0 50px;
 }
 
 a {
