@@ -1,5 +1,7 @@
 @media(max-width: 800px) {
-    
+    .profile_container {
+        margin:0 15px;
+    }
 }
 
 body {
