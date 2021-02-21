@@ -42,9 +42,8 @@ h1 {
 }
 
 .video {
-    width:30%;
-    padding-left:2%;
-    padding-right:2%;
+    width:32%;
+    padding:0 auto;
     float:left;
 }
 
