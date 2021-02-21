@@ -12,7 +12,7 @@ body {
     opacity: 0.7;
     text-align: center;
     background-image: url(../profile_img.jpeg);
-    font-size:250px;
+    font-size:250%;
     background-size: cover;
     padding-top: 35%;
     height: 640px;
