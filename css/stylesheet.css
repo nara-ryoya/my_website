@@ -3,20 +3,13 @@
 }
 
 body {
-    color:yellow;
+    color:white;
     background-color: black;
 }
 
-.title_container {
-    color:white;
-    opacity: 0.7;
-    text-align: center;
-    background-image: url(../profile_img.jpeg);
-    font-size:250%;
-    background-size: cover;
-    padding-top: 35%;
-    height: 640px;
-
+header {
+    background-color: rgb(12, 54, 30);
+    
 }
 
 
