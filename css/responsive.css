@@ -5,7 +5,13 @@
 
     .video {
         width:48%;
-        padding:0 auto;
-        float:left;
+        padding-left: 1%;
+        padding-right:1%
+    }
+
+    .videos {
+        padding-bottom: 20px;
+        display: flex;
+        flex-wrap: wrap;
     }
 }

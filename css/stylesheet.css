@@ -42,11 +42,14 @@ h1 {
 }
 
 .video {
-    width:32%;
-    padding:0 auto;
-    float:left;
+    width: 29%;
+    padding-left: 2%;
+    padding-right: 2%;
+    float: left;
 }
 
 .videos {
-    padding:0 auto;
+    padding-bottom: 50px;
+    display: flex;
+    flex-wrap: wrap;
 }
