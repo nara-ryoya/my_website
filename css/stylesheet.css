@@ -1,4 +1,4 @@
-@media(max-width: 1000px) {
+@media(max-width: 800px) {
 
 }
 
@@ -19,11 +19,16 @@ body {
 
 }
 
-.title {
 
-}
 
 .profile_container {
     color: white;
 }
 
+a {
+    color:green;
+}
+
+h1 {
+    border-bottom: 1px ;
+}
