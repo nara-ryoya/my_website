@@ -42,10 +42,8 @@ h1 {
 }
 
 .video {
-    width: 29%;
-    padding-left: 2%;
-    padding-right: 2%;
-    float: left;
+    width: 33%;
+    flex: auto;
 }
 
 .videos {
