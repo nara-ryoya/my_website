@@ -1,22 +1,27 @@
-
+@import url('https://fonts.googleapis.com/earlyaccess/hannari.css');
 
 body {
     color:white;
     background-color: black;
     display:block;
     margin:0 auto;
-    font-family:serif;
+    font-family:'Hannnari';
 
 }
 
 header {
-    background-color: rgb(12, 54, 30);
+    font-family: cursive;
     display: block;
-    padding: 0.5rem 1.5rem;
+    padding: 2.5rem 1.5rem;
+    background-image:url(https://i.pinimg.com/originals/b6/7c/d7/b67cd72e40aaf7df7ec42ff52d62369e.png);
+    background-position:center;
+    background-color:rgba(255,255,255,0.4);
+    background-blend-mode:lighten;
 
 }
 
 header h1 {
+    color:black;
     border-bottom: 0;
     margin-top: 1rem;
 }
@@ -24,7 +29,7 @@ header h1 {
 
 .profile_container {
     color: white;
-    margin:0 50px;
+    padding:0 40px;
 }
 
 a {
